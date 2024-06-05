@@ -1,1 +1,1 @@
-Aplicacion en Javascript que hace la funcón de contador 
+Aplicacion en Javascript que hace la función de contador 
